@@ -4,8 +4,8 @@ title: "Lorem Ipsum"
 tags: tag1 tag2 tag3 tag4
 ---
 
-## Lorem Ipsum
+## 愛情disabled
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin enim nibh, suscipit sed rhoncus quis, blandit quis sapien. Ut congue pharetra rhoncus. Praesent finibus vitae urna quis cursus. Proin mollis elementum sapien, vitae viverra magna tincidunt a. Nullam tincidunt interdum dui ut ultricies. Maecenas pellentesque tellus ac mauris faucibus elementum. Nulla quis risus aliquam, pharetra neque non, dapibus augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras ullamcorper lacinia augue in placerat. Suspendisse lacinia massa id blandit varius. Mauris ultricies ultricies bibendum.  
 
-Mauris eu lectus fermentum leo dictum hendrerit. Maecenas vel leo sit amet quam laoreet consequat vitae nec eros. Curabitur eleifend eu orci quis consectetur. Sed pretium tortor at consequat tincidunt. Nullam a tellus faucibus, dapibus tortor eget, ullamcorper metus. Aenean at aliquet metus. Aenean molestie metus rutrum, tincidunt nulla quis, tincidunt lorem. Morbi diam sem, rutrum vitae convallis eget, dignissim semper lacus. Curabitur ipsum diam, tincidunt in hendrerit sit amet, luctus vitae dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+耶穌說的愛是無條件的、獻身的，奧修說的愛是能量的互動、是自由的、無束縛的，昆德拉說的愛是機遇的、偶然的、命定的，高達說的愛是刺激的、好玩的、有今生沒來世的、哲學的，小津安二郎說的愛是溫柔的、隱藏的、非愛的，畢卡索說的愛是經驗的、性慾的、美好的，夏卡爾說的愛是聖潔的、救贖的、唯一的。l'amour, mes amants, mon amour, aimer。愛情，愛人們，我的愛，去愛。而我將要說的是，l'impossibilité d'aimer dans notre temps.
